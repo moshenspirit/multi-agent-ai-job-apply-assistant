@@ -1,0 +1,35 @@
+# ===== 密钥与本地配置 =====
+.env
+.env.*
+!.env.example
+
+# ===== 运行时数据 =====
+*.db
+*.sqlite
+*.sqlite3
+*.log
+web/backend/data/resumes/*
+!web/backend/data/resumes/.gitkeep
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# ===== 前端 / Node =====
+node_modules/
+dist/
+.vite/
+*.local
+
+# ===== 编辑器 / 系统 =====
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
