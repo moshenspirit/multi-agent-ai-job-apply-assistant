@@ -16,6 +16,42 @@
 
 ---
 
+## 📸 界面预览
+
+> 以下为**实际运行中的界面**（非示意图）：岗位库累计 **397 条**，投递记录 **18 条**。
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="docs/screenshots/01-job-list.png"><img src="docs/screenshots/01-job-list.png" width="100%"></a><br>
+<b>① 岗位列表</b><br>
+<sub>397 个岗位 · 匹配分 · 风险标签 · 一键标记</sub>
+</td>
+<td align="center" width="50%">
+<a href="docs/screenshots/02-history.png"><img src="docs/screenshots/02-history.png" width="100%"></a><br>
+<b>② 投递历史</b><br>
+<sub>18 条真实投递记录 · 状态跟踪</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="docs/screenshots/03-config-center.png"><img src="docs/screenshots/03-config-center.png" width="100%"></a><br>
+<b>③ 配置中心</b><br>
+<sub>关键词组 · 匹配口径 · 公司黑名单</sub>
+</td>
+<td align="center">
+<a href="docs/screenshots/04-agent-manage.png"><img src="docs/screenshots/04-agent-manage.png" width="100%"></a><br>
+<b>④ Agent 管理</b><br>
+<sub>注册表驱动表单 · 前置条件自检</sub>
+</td>
+</tr>
+</table>
+<sub>点击任一图片可查看原图</sub>
+</div>
+
+---
+
 ## ✨ 亮点
 
 | 维度 | 内容 |
